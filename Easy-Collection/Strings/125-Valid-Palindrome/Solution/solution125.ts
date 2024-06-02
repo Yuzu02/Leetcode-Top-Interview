@@ -1,4 +1,4 @@
-//? Source https://leetcode.com/problems/valid-palindrome/
+//? Source [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 // Solution 1 - Using replace method => Good runtime and space complexity
 function isPalindrome1(s: string): boolean {

@@ -1,4 +1,4 @@
-//? Source: https://leetcode.com/problems/contains-duplicate/
+//? Source: [217. Contains Duplicate] https://leetcode.com/problems/contains-duplicate/
 
 // Solution 1 - Using a Set => Less runtime but more memory
 function containsDuplicate1(nums: number[]): boolean {

@@ -1,4 +1,4 @@
-//? Source : https://leetcode.com/problems/rotate-array/
+//? Source : [189. Rotate Array] (https://leetcode.com/problems/rotate-array/) 
 
 // Solution 1 - Using extra array => More memory but less runtime
 function rotate1(nums: number[], k: number): void {
