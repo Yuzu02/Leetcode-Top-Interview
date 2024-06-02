@@ -9,10 +9,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "test217": "ava ../Leetcode/Easy-Collection/Array/217-Contains-Duplicate/Test/Test217.test.ts --verbose",
-    "test189": "ava ../Leetcode/Easy-Collection/Array/189-Rotate-Array/Test/Test189.test.ts --verbose",
-    "test344": "ava ../Leetcode/Easy-Collection/Strings/344-Reverse-String/Test/Test344.test.ts --verbose",
-    "test125": "ava ../Leetcode/Easy-Collection/Strings/125-Valid-Palindrome/Test/Test125.test.ts --verbose"
+    "test217": "ava Easy-Collection/Array/217-Contains-Duplicate/Test/Test217.test.ts --verbose",
+    "test189": "ava Easy-Collection/Array/189-Rotate-Array/Test/Test189.test.ts --verbose",
+    "test344": "ava Easy-Collection/Strings/344-Reverse-String/Test/Test344.test.ts --verbose",
+    "test125": "ava Easy-Collection/Strings/125-Valid-Palindrome/Test/Test125.test.ts --verbose"
   },
   "ava": {
     "extensions": [
