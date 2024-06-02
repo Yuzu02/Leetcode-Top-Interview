@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "description": "Leetcode Top Interview Questions",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "ava": "^6.1.3",
+    "ts-node": "^10.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test217": "ava ../Leetcode/Easy-Collection/Array/217-Contains-Duplicate/Test/Test217.test.ts --verbose",
+    "test189": "ava ../Leetcode/Easy-Collection/Array/189-Rotate-Array/Test/Test189.test.ts --verbose",
+    "test344": "ava ../Leetcode/Easy-Collection/Strings/344-Reverse-String/Test/Test344.test.ts --verbose",
+    "test125": "ava ../Leetcode/Easy-Collection/Strings/125-Valid-Palindrome/Test/Test125.test.ts --verbose"
+  },
+  "ava": {
+    "extensions": [
+      "ts"
+    ],
+    "require": [
+      "ts-node/register"
+    ]
+  }
+}
