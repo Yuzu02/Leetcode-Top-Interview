@@ -49,7 +49,11 @@ This project is a collection of solutions to the LeetCode Top Interview Question
 
 - [Easy-Collection](Easy-Collection) 
 
-  - [Array](Easy-Collection/Array) 
+  - [Array](Easy-Collection/Array)
+    
+    - [36-Valid-Sudoku](Easy-Collection/Array/36-Valid-Sudoku/Solution/Valid-Sudoku.md)
+    - [189-Rotate-Array](Easy-Collection/Array/189-Rotate-Array/Solution/Rotate-Array.md)
+      
   - [Strings](Easy-Collection/Strings) 
   - Linked-List
   - Tree
