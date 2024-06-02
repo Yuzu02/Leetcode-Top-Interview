@@ -8,12 +8,23 @@
 
 ## Table of Contents
 
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Features
+
+- The most efficient solutions to the problems.
+- Notable comments for the solutions.
+- Up to 5 Unit tests for the solutions using Ava.
+- Two solutions for each problem.
+
+  - The first solution is the most efficient solution in time complexity.
+  - The second solution is the most efficient solution in space complexity.
+
 
 ## Installation
 
@@ -53,8 +64,13 @@ This project is a collection of solutions to the LeetCode Top Interview Question
     
     - [36-Valid-Sudoku](Easy-Collection/Array/36-Valid-Sudoku/Solution/Valid-Sudoku.md)
     - [189-Rotate-Array](Easy-Collection/Array/189-Rotate-Array/Solution/Rotate-Array.md)
+    - [217-Contains-Duplicate](Easy-Collection/Array/217-Contains-Duplicate/Solution/Contains-Duplicate.md)
       
-  - [Strings](Easy-Collection/Strings) 
+  - [Strings](Easy-Collection/Strings)
+    
+    - [125-Valid-Palindrome](Easy-Collection/Strings/125-Valid-Palindrome/Solution/Valid-Palindrome.md)
+    - [344-Reverse-String](Easy-Collection/Strings/344-Reverse-String/Solution/Reverse-String.md)
+  
   - Linked-List
   - Tree
   - Sorting-and-Searching
@@ -98,15 +114,6 @@ npm run test217
 bun run test344
 ```
 
-## Features
-
-- The most efficient solutions to the problems.
-- Notable comments for the solutions.
-- Up to 5 Unit tests for the solutions using Ava.
-- Two solutions for each problem.
-
-  - The first solution is the most efficient solution in time complexity.
-  - The second solution is the most efficient solution in space complexity.
 
 ## Contributing
 
