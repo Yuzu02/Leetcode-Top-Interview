@@ -47,10 +47,10 @@ code .
 
 This project is a collection of solutions to the LeetCode Top Interview Questions divide into different categories.
 
-- Easy-Collection
+- [Easy-Collection](Easy-Collection) 
 
-  - Array
-  - String
+  - [Array](Easy-Collection/Array) 
+  - [Strings](Easy-Collection/Strings) 
   - Linked-List
   - Tree
   - Sorting-and-Searching
