@@ -25,7 +25,6 @@
   - The first solution is the most efficient solution in time complexity.
   - The second solution is the most efficient solution in space complexity.
 
-
 ## Installation
 
 To run the project, you need to have Node.js installed on your machine.
@@ -58,16 +57,17 @@ code .
 
 This project is a collection of solutions to the LeetCode Top Interview Questions divide into different categories.
 
-- [Easy-Collection](Easy-Collection) 
+- [Easy-Collection](Easy-Collection)
 
   - [Array](Easy-Collection/Array)
-    
+
+    - [1-Two-Sum](Easy-Collection/Array/1-Two-Sum/Solution/Two-Sum.md)
     - [36-Valid-Sudoku](Easy-Collection/Array/36-Valid-Sudoku/Solution/Valid-Sudoku.md)
     - [189-Rotate-Array](Easy-Collection/Array/189-Rotate-Array/Solution/Rotate-Array.md)
     - [217-Contains-Duplicate](Easy-Collection/Array/217-Contains-Duplicate/Solution/Contains-Duplicate.md)
-      
+
   - [Strings](Easy-Collection/Strings)
-    
+
     - [125-Valid-Palindrome](Easy-Collection/Strings/125-Valid-Palindrome/Solution/Valid-Palindrome.md)
     - [344-Reverse-String](Easy-Collection/Strings/344-Reverse-String/Solution/Reverse-String.md)
   
@@ -113,7 +113,6 @@ npm run test217
 # Example 4
 bun run test344
 ```
-
 
 ## Contributing
 
